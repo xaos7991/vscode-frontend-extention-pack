@@ -1,0 +1,70 @@
+{
+    "name": "frontend-extension-pack",
+    "displayName": "Frontend extension pack",
+    "description": "Extension pack for frontend-developers",
+    "publisher": "chaos7991",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "icon": "logo.png",
+    "categories": [
+        "Extension Packs"
+    ],
+    "keywords": [
+        "frontend",
+        "vscode",
+        "extension",
+        "buildpack"
+    ],
+    "bugs": {
+        "url": "https://github.com/xaos7991/vscode-frontend-extention-pack/issues",
+        "email": "business.sergeykalmykov@gmail.com"
+    },
+    "homepage": "https://github.com/xaos7991/vscode-frontend-extention-pack/blob/master/README.md",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/xaos7991/vscode-frontend-extention-pack.git"
+    },
+    "extensionPack": [ 
+        "aaron-bond.better-comments", 
+        "abusaidm.html-snippets", 
+        "bradlc.vscode-tailwindcss", 
+        "christian-kohler.npm-intellisense", 
+        "christian-kohler.path-intellisense", 
+        "CoenraadS.bracket-pair-colorizer-2", 
+        "cssho.vscode-svgviewer", 
+        "DavidAnson.vscode-markdownlint", 
+        "dbaeumer.vscode-eslint", 
+        "donjayamanne.githistory", 
+        "dsznajder.es7-react-js-snippets", 
+        "eamodio.gitlens", 
+        "ecmel.vscode-html-css", 
+        "EditorConfig.EditorConfig", 
+        "eg2.vscode-npm-script", 
+        "esbenp.prettier-vscode", 
+        "felipecaputo.git-project-manager", 
+        "formulahendry.auto-close-tag", 
+        "formulahendry.auto-rename-tag", 
+        "johnsoncodehk.volar", 
+        "johnsoncodehk.vscode-typescript-vue-plugin", 
+        "mhutchie.git-graph", 
+        "mikestead.dotenv", 
+        "ms-vsliveshare.vsliveshare", 
+        "octref.vetur", 
+        "PKief.material-icon-theme", 
+        "pranaygp.vscode-css-peek", 
+        "rangav.vscode-thunder-client", 
+        "redhat.vscode-yaml", 
+        "ritwickdey.LiveServer", 
+        "shd101wyy.markdown-preview-enhanced", 
+        "sibiraj-s.vscode-scss-formatter", 
+        "steoates.autoimport", 
+        "svelte.svelte-vscode", 
+        "VisualStudioExptTeam.vscodeintellicode",
+        "stylelint.vscode-stylelint",
+        "wix.vscode-import-cost",
+        "idleberg.icon-fonts",
+        "formulahendry.code-runner"
+    ]
+}
