@@ -1,5 +1,5 @@
 {
-    "name": "frontend-extension-pack",
+    "name": "extension-pack-for-frontend-developer",
     "displayName": "Frontend extension pack",
     "description": "Extension pack for frontend-developers",
     "publisher": "chaos7991",
@@ -21,11 +21,12 @@
         "url": "https://github.com/xaos7991/vscode-frontend-extention-pack/issues",
         "email": "business.sergeykalmykov@gmail.com"
     },
-    "homepage": "https://github.com/xaos7991/vscode-frontend-extention-pack/blob/master/README.md",
+    "homepage": "https://github.com/xaos7991/vscode-frontend-extention-pack/blob/main/README.md",
     "repository": {
         "type": "git",
         "url": "https://github.com/xaos7991/vscode-frontend-extention-pack.git"
     },
+    "license": "MIT",
     "extensionPack": [ 
         "aaron-bond.better-comments", 
         "abusaidm.html-snippets", 
